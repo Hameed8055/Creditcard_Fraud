@@ -22,6 +22,11 @@ This project focuses on detecting fraudulent credit card transactions using mach
 - **Features:** 30 (28 anonymized PCA components + `Time`, `Amount`)
 - **Target:** `Class` (0 = non-fraud, 1 = fraud)
 
+- ### 📂 Download Cleaned Dataset
+You can download the cleaned and preprocessed dataset here:  
+🔗 [Download creditcard_scaled.csv]( https://drive.google.com/file/d/1VMLOt6FaGXOY4fwhhXEzVZoRghIOfYL2/view?usp=sharing)
+
+
 ---
 
 ## 🔧 Technologies Used
